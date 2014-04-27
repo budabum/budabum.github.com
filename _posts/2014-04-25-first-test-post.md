@@ -7,4 +7,4 @@ tags: []
 ---
 {% include JB/setup %}
 
-{{site.title}}
+{{site.title}} - эта страничка будет вскоре удалена
