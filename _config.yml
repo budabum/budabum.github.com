@@ -31,6 +31,8 @@ markdown: kramdown
 #
 production_url : http://username.github.io
 
+github_includes_url : https://github.com/budabum/budabum.github.com/blob/master/_includes/
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
